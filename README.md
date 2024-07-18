@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reyhan</h1>
-<h3 align="center">A passionate data professional, whether as a Data Engineer, Data Scientist and Business Intelligence from Indonesia.</h3>
+<h3 align="center">A passionate programmer professional, whether as a Software Engineer, Data Engineer, and Data Scientist from Indonesia</h3>
 
-- 👯 I’m looking to collaborate on **projects related to data engineer, data scientist and business intelligence, or technical solution development in the data domain.**
+- 👯 I’m looking to collaborate on **projects related to software engineer, data engineer, and data scientist.**
 
 - 👨‍💻 All of my projects are available at [https://rehann888.github.io/reyhan/](https://rehann888.github.io/reyhan/)
 
