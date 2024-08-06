@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Reyhan</h1>
+<h1 align="center">Hi 👋, I'm reyhan</h1>
 <h3 align="center">A passionate programmer professional, whether as a Software Engineer, and Data Engineer from Indonesia</h3>
 
 <h3 align="left">Languages and Tools:</h3>
